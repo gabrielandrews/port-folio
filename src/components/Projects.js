@@ -7,18 +7,18 @@ const Projects = ({ sites }) => {
         {
             name: "",
             github: "https://github.com/gabrielandrews/Guess-That-Movie-Release-Year",
-            deployed: "https://gabrielandrews.github.io/Guess-That-Movie-Release-Year/c",
+            deployed: "https://gabrielandrews.github.io/Guess-That-Movie-Release-Year/",
         },
        
         {
             name: "",
             github: "https://github.com/erinnaschneider/stargazr",
-            deployed: "https://fierce-mesa-57913.herokuapp.com/",
+            deployed: "https://sleepy-beyond-47602.herokuapp.com/",
         },
         {
             name: "",
             github: "https://github.com/ekball/poke-buff",
-            deployed: "https://git.heroku.com/pure-bayou-47216.git",
+            deployed: "https://fierce-mesa-57913.herokuapp.com/",
         },
         {
             name: "",
