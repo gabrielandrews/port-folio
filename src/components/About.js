@@ -9,9 +9,9 @@ function About() {
                         alt="Error Profile" 
                         src={pic} className="picture"
                     ></img>
-            <p className="about-text">Hey! My name is Gabriel Andrews and I am a web developer who has a passion for both front and back end development. 
-            I am a graduate of the UNC coding Bootcamp with a lot of new skills that I’m ready to use. I made this portfolio with React. 
-            If interested in my skills please feel free to contact me.
+            <p className="about-text">Hey! My name is Gabriel Andrews, and I am a web developer with a passion for both front and back end development. 
+            I am a graduate of the UNC coding Bootcamp with new skills that I am ready to use. 
+            I made this portfolio with React. If you are interested in my work, please feel free to contact me.
             </p>
         </div>
         </div>
