@@ -12,7 +12,7 @@ body {
   justify-content: center;
   font-size: 35px;
   text-align: center;
-  color: #18d14d;
+  color: #d11818;
   text-underline-offset: 1.3vh;
 }
 
@@ -36,18 +36,18 @@ body {
 
 @keyframes color {
   from {background-color: #ffffff;}
-  to {background-color: #18d14d;}
+  to {background-color: #d11818;}
 }
 .head {
   align-self: center;
   font-size: 5vw;
-  border: 2.7px solid #18d14d ;
+  border: 2.7px solid #d11818 ;
   border-radius: 8px;
   border-style:outset;
   padding: .5vw 5vw;
-  background: #18d14d;
+  background: #d11818;
   font-family: 'DotGothic16', sans-serif;
-  box-shadow: 0 8px 16px 0 rgba(16, 218, 9, 0.329), 0 6px 20px 0 rgba(7, 231, 7, 0.404);
+  box-shadow: 0 8px 16px 0 #af1515 (16, 218, 9, 0.329), 0 6px 20px 0 #af1515 (7, 231, 7, 0.404);
   animation-name: color;
   animation-duration: 4s;
 }
@@ -78,7 +78,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: #18d14d;
+  color: #d11818;
   
 }
 
@@ -86,8 +86,8 @@ body {
 
 .input-form {
   margin-top: 0;
-  box-shadow: 0 8px 16px 0 rgba(4, 241, 4, 0.562), 0 6px 20px 0 rgba(5, 255, 5, 0.623);
-  border: .5vw solid #18d14d;
+  box-shadow: 0 8px 16px 0 #af1515 (4, 241, 4, 0.562), 0 6px 20px 0 #af1515 (5, 255, 5, 0.623);
+  border: .5vw solid #d11818;
   border-radius: 4px;
   font-size: 30px;
   outline: none;
@@ -102,11 +102,11 @@ body {
   font-family: 'DotGothic16', sans-serif;
   margin: 4vh;
   font-size: 4vh;
-  border: 0.3vh solid #18d14d;
+  border: 0.3vh solid #d11818;
   border-radius: 4px;
-  background-color: #18d14d;
-  box-shadow: 0 8px 16px 0 rgba(28, 226, 21, 0.308), 0 6px 20px 0 rgba(10, 255, 1, 0.404);
-  text-shadow: 3px 3px rgb(108, 95, 110);
+  background-color: #d11818;
+  box-shadow: 0 8px 16px 0 #af1515 (28, 226, 21, 0.308), 0 6px 20px 0 #af1515 (10, 255, 1, 0.404);
+  text-shadow: 3px 3px rgb(107, 110, 95);
 }
 
 .container-about {
@@ -122,7 +122,7 @@ body {
 .about-text {
   font-size: 25px;
   padding: 2vw;
-  color: #18d14d;
+  color: #d11818;
   text-align: center;
   
 }
@@ -139,7 +139,7 @@ body {
 
 .nav-item {
   text-decoration: none;
-  color: #18d14d;
+  color: #d11818;
   border: 2.7px outset;
   border-radius: 8px;
   border-style: outset;
@@ -150,12 +150,12 @@ body {
 .nav-item-active {
   color: black;
   text-decoration: none;
-  background-color: #18d14d;
+  background-color: #d11818;
   border: 2px outset;
   border-radius: 8px;
   border-style: outset;
   padding: .5rem;
-  text-shadow: 3px 3px rgb(108, 95, 110);
+  text-shadow: 3px 3px rgb(105, 110, 95);
   
 }
 
@@ -166,7 +166,7 @@ body {
 .footer {
   font-size: 25px;
   margin-top: 15vw;
-  color: #18d14d;
+  color: #d11818;
   padding-bottom: 10px;
 }
 
@@ -180,9 +180,9 @@ body {
 
 }
 @keyframes shade {
-  0% {box-shadow: 0 30px 50px 0 #18d14d;}
+  0% {box-shadow: 0 30px 50px 0 #d11818;}
   50% {box-shadow: 0 10px 30px 0 white;}
-  100% {box-shadow: 0 30px 50px 0 #18d14d;}
+  100% {box-shadow: 0 30px 50px 0 #d11818;}
 }
 .work-image {
   width: 30%;
@@ -190,7 +190,7 @@ body {
   margin-top: 2vh;
   padding: 0px;
   position: relative;
-  box-shadow: 0 30px 50px 0 rgba(4, 241, 4, 0.562), 0 6px 20px 0 rgba(5, 255, 5, 0.623);
+  box-shadow: 0 30px 50px 0 #b11414 (4, 241, 4, 0.562), 0 6px 20px 0 #af1515 (5, 255, 5, 0.623);
   animation-name: shade;
   animation-duration: 10s;
   animation-iteration-count: 50;
@@ -217,7 +217,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: #18d14d;
+    color: #d11818;
     
   }
   
@@ -225,8 +225,8 @@ body {
   
   .input-form {
     margin-top: 0;
-    box-shadow: 0 8px 16px 0 rgba(4, 241, 4, 0.562), 0 6px 20px 0 rgba(5, 255, 5, 0.623);
-    border: .5vw solid #18d14d;
+    box-shadow: 0 8px 16px 0 #bc2727 (4, 241, 4, 0.562), 0 6px 20px 0 #af1515 (5, 255, 5, 0.623);
+    border: .5vw solid #d11818;
     border-radius: 2px;
     font-size: 15px;
     outline: none;
@@ -241,10 +241,10 @@ body {
     font-family: 'DotGothic16', sans-serif;
     margin: 2vh;
     font-size: 2vh;
-    border: 0.3vh solid #18d14d;
+    border: 0.3vh solid #d11818;
     border-radius: 2px;
-    background-color: #18d14d;
-    box-shadow: 0 8px 16px 0 rgba(28, 226, 21, 0.308), 0 6px 20px 0 rgba(10, 255, 1, 0.404);
+    background-color: #d11818;
+    box-shadow: 0 8px 16px 0 rgba(28, 226, 21, 0.308), 0 6px 20px 0 #af1515 (10, 255, 1, 0.404);
     text-shadow: 1px 1px rgb(108, 95, 110);
   }
 }
